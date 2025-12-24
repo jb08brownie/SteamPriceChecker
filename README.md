@@ -34,7 +34,14 @@ This helps during the many Steam seasonal sales to get the *best price for your 
   4. Your Steam ID will be shown in grey underneath account header at the top
 - Fill in your Steam ID, Steam Web API Key, IsThereAnyDeal API Key for the variables at the top of the script
 - Run the script in the terminal, for example in Windows, use the following command:
-  ```bash
-python steam_price_checker.py
-```- Get a list of the games in your wishlist with historical low prices!
+```bash
+python script.py
+```
+- Output Example
+```python
+Here are the games in your Steam Wishlist with historically low prices:
 
+Tex Murphy: Under a Killing Moon - £1.04
+Pony Island - £0.64
+Sam & Max Beyond Time and Space - £7.74
+```
