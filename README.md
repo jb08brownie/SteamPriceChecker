@@ -25,4 +25,16 @@ This helps during the many Steam seasonal sales to get the *best price for your 
 
 ---
 
-## Us
+## How To Use
+
+- Obtain your Steam User ID No. by following:
+  1. In the Steam Desktop App click the Steam button (top left)
+  2. Click Settings
+  3. Go to Account Details in the Account tab
+  4. Your Steam ID will be shown in grey underneath account header at the top
+- Fill in your Steam ID, Steam Web API Key, IsThereAnyDeal API Key for the variables at the top of the script
+- Run the script in the terminal, for example in Windows, use the following command:
+  ```bash
+python steam_price_checker.py
+```- Get a list of the games in your wishlist with historical low prices!
+
