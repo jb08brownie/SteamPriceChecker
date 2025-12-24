@@ -35,10 +35,10 @@ This helps during the many Steam seasonal sales to get the *best price for your 
 - Fill in your Steam ID, Steam Web API Key, IsThereAnyDeal API Key for the variables at the top of the script
 - Run the script in the terminal, for example in Windows, use the following command:
 ```bash
-python script.py
+python steam_price_checker.py
 ```
 - Output Example
-```python
+```bash
 Here are the games in your Steam Wishlist with historically low prices:
 
 Tex Murphy: Under a Killing Moon - £1.04
