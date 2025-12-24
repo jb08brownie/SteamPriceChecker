@@ -25,7 +25,7 @@ This helps during the many Steam seasonal sales to get the *best price for your 
 
 ---
 
-## How To Use
+## 💻 How To Use
 
 - Obtain your Steam User ID No. by following:
   1. In the Steam Desktop App click the Steam button (top left)
@@ -38,7 +38,7 @@ This helps during the many Steam seasonal sales to get the *best price for your 
 python steam_price_checker.py
 ```
 - Output Example
-```bash
+```
 Here are the games in your Steam Wishlist with historically low prices:
 
 Tex Murphy: Under a Killing Moon - £1.04
